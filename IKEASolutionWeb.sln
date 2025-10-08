@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKEA.PL", "IKEA.PL\IKEA.PL.csproj", "{87DEC3AF-6124-4CAF-898B-03D8C95099DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKEA.DAL", "IKEA.DAL\IKEA.DAL.csproj", "{4C09F81A-7EDC-43F6-8877-7E7ADDCB62C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKEA.BLL", "IKEA.BLL\IKEA.BLL.csproj", "{8499D5BC-5738-48ED-AC33-C7D910353C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DEC3AF-6124-4CAF-898B-03D8C95099DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DEC3AF-6124-4CAF-898B-03D8C95099DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DEC3AF-6124-4CAF-898B-03D8C95099DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DEC3AF-6124-4CAF-898B-03D8C95099DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C09F81A-7EDC-43F6-8877-7E7ADDCB62C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C09F81A-7EDC-43F6-8877-7E7ADDCB62C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C09F81A-7EDC-43F6-8877-7E7ADDCB62C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C09F81A-7EDC-43F6-8877-7E7ADDCB62C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8499D5BC-5738-48ED-AC33-C7D910353C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8499D5BC-5738-48ED-AC33-C7D910353C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8499D5BC-5738-48ED-AC33-C7D910353C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8499D5BC-5738-48ED-AC33-C7D910353C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC11F4E-B6EA-491D-97A6-5F250EEA22B7}
+	EndGlobalSection
+EndGlobal
